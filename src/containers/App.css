@@ -1,0 +1,11 @@
+    @font-face {
+    font-family: 'Cyber Princess Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Cyber Princess Regular'), url('CyberPrincess.woff') format('woff');
+    }
+
+
+h1 {
+	font-family: 'Cyber Princess Regular';
+}
